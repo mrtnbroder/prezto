@@ -11,7 +11,7 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # http://rvm.io/integration/zsh
-__rvm_project_rvmrc
+# __rvm_project_rvmrc
 
 # Customize to your needs...
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
