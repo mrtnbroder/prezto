@@ -35,6 +35,9 @@ zstyle ':prezto:load' pmodule \
   'archive' \
   'fasd' \
   'git' \
+  'rails' \
+  'ruby' \
+  'homebrew' \
   'bower' \
   'osx' \
   'syntax-highlighting' \
