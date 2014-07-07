@@ -15,4 +15,4 @@ fi
 
 # Customize to your needs...
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
-alias cg=coffeegulp
+alias cg="coffeegulp"
