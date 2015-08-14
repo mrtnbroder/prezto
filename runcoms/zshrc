@@ -13,9 +13,5 @@ fi
 # http://rvm.io/integration/zsh
 # __rvm_project_rvmrc
 
-export NVM_DIR=~/.nvm
-source $(brew --prefix nvm)/nvm.sh
-
 # Customize to your needs...
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
-alias cg="coffeegulp"
