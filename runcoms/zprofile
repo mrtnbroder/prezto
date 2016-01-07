@@ -45,7 +45,6 @@ typeset -gU cdpath fpath mailpath path
 path=(
   /usr/local/{bin,sbin}
   /usr/local/share/npm/{bin,sbin}
-  /usr/local/opt/php55/{bin,sbin}
   $HOME/.dotfiles_v2/{bin,sbin}
   $HOME/.rvm/bin
   $path
