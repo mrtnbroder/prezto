@@ -30,6 +30,7 @@ zstyle ':prezto:load' pmodule \
   'history' \
   'directory' \
   'spectrum' \
+  'autosuggestions' \
   'utility' \
   'completion' \
   'archive' \
@@ -38,7 +39,7 @@ zstyle ':prezto:load' pmodule \
   'rails' \
   'ruby' \
   'homebrew' \
-  'bower' \
+  'tmux' \
   'osx' \
   'syntax-highlighting' \
   'history-substring-search' \
