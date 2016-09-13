@@ -42,7 +42,7 @@ path=(
   /usr/local/{bin,sbin}
   /usr/local/share/npm/{bin,sbin}
   /usr/local/opt/php54/{bin,sbin}
-  $HOME/.dotfiles_v2/{bin,sbin}
+  $HOME/.dotfiles/{bin,sbin}
   $path
 )
 

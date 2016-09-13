@@ -17,8 +17,8 @@ fi
 # Editors
 #
 
-export EDITOR='vim'
-export VISUAL='vim'
+export EDITOR='nvim'
+export VISUAL='nvim'
 export PAGER='less'
 
 #
@@ -45,7 +45,7 @@ typeset -gU cdpath fpath mailpath path
 path=(
   /usr/local/{bin,sbin}
   /usr/local/share/npm/{bin,sbin}
-  $HOME/.dotfiles_v2/{bin,sbin}
+  $HOME/.dotfiles/{bin,sbin}
   $HOME/.rvm/bin
   $path
 )
